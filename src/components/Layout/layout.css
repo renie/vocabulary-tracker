@@ -1,0 +1,7 @@
+main {
+    margin: 10px;
+}
+
+.noun { background: lightblue !important; }
+.adjective { background: lightcoral !important; }
+.verb { background: lightgreen !important; }

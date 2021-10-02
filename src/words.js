@@ -1,4 +1,4 @@
-const words = [
+const Words = [
     {
         word: "Поганий",
         translation: "Bad",
@@ -865,3 +865,5 @@ const words = [
         wordClass: "adjective"
     }
 ]
+
+export default Words

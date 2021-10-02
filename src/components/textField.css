@@ -1,0 +1,11 @@
+.text-field {
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px 0;
+    font-size: 1.2em;
+    outline: none;
+}
+
+.text-field:focus {
+    border-bottom: 1px solid orange;
+}
