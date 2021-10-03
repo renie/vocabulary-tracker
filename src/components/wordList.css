@@ -1,0 +1,18 @@
+.word-list li {
+    display: block;
+    padding: 10px 5px;
+}
+
+    .word-list li:first-child {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .word-list li:last-child {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+    .word-list li .word { float: left; font-size: 1.3em; }
+    .word-list li .cursive { float: right; font-size: 1.1em; }
+    .word-list li .translation { clear: both; font-size: 0.9em; }

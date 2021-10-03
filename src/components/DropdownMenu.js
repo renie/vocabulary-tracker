@@ -35,7 +35,9 @@ const DropdownMenu = props => {
                 ${props.extraCssClasses?.join(' ') ?? ''}
             `}>
 
-            <ul>{props.items.map(renderDropdownMenuItem)}</ul>
+            <ul>
+                {props.items.map(renderDropdownMenuItem)}
+            </ul>
         </div>
     )
 }

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 
 import Layout from './components/Layout/Layout'
 import TopBar from './components/Layout/TopBar'
+import ScrollableContent from './components/Layout/ScrollableContent'
 
 import './app.css'
 
@@ -22,6 +23,8 @@ const App = () => {
     return (
         <Layout>
             <TopBar
+                words={words} />
+            <ScrollableContent
                 words={words} />
         </Layout>
     )
