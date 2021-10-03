@@ -2,12 +2,11 @@ import SearchBar from '../SearchBar'
 
 import './topBar.css'
 
-const TopBar = () => {
-    return (
-        <div className="top-bar">
-            <SearchBar />
-        </div>
-    )
-}
+const TopBar = props => (
+    <section className="top-bar">
+        <SearchBar
+            words={props.words} />
+    </section>
+)
 
 export default TopBar

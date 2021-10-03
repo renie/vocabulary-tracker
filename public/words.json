@@ -1,0 +1,867 @@
+[
+    {
+        "word": "Поганий",
+        "translation": "Bad",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Подушка",
+        "translation": "Pillow",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Любити",
+        "translation": "To Love",
+        "wordClass": "verb"
+    },
+    {
+        "word": "Пробувати",
+        "translation": "To Try",
+        "wordClass": "verb"
+    },
+    {
+        "word": "Стілець",
+        "translation": "Chair",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Улюблений",
+        "translation": "Favorite",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Фіолетовий",
+        "translation": "Purple",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Зелений",
+        "translation": "Green",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Картопля",
+        "translation": "Potato",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Борщ",
+        "translation": "Borshch (beet soup)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Робити",
+        "translation": "To Do",
+        "wordClass": "verb"
+    },
+    {
+        "word": "Кімната",
+        "translation": "Room",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Стіна",
+        "translation": "Wall",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Підлога",
+        "translation": "Floor",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Стеля",
+        "translation": "Ceiling",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вікно",
+        "translation": "Window",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Підвіконня",
+        "translation": "Windowsill",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Двері",
+        "translation": "Door",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Куток",
+        "translation": "Corner",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Середира",
+        "translation": "Center",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Килим",
+        "translation": "Carpet",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Меблі",
+        "translation": "Furniture",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Стіл",
+        "translation": "Table",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Крісло",
+        "translation": "Arm-chair",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ліжко",
+        "translation": "Bed",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Шафа",
+        "translation": "Wardrobe",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Шафка",
+        "translation": "Cupboard",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Полиця",
+        "translation": "Shelf",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Телевізор",
+        "translation": "TV",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Рамка",
+        "translation": "Frame",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ваза",
+        "translation": "Vase",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Квітка",
+        "translation": "Florwer",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Книга",
+        "translation": "Book",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Іграшка",
+        "translation": "Toy",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Комп'ютер",
+        "translation": "Computer",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Лампа",
+        "translation": "Lamp",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Люстра",
+        "translation": "Chandelier",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Дзеркало",
+        "translation": "Mirror",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Штора",
+        "translation": "Curtain",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ковдра",
+        "translation": "Blanket",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Картена",
+        "translation": "Painting",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Фотографія",
+        "translation": "Photo",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Сім'я",
+        "translation": "Family (closer)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Родена",
+        "translation": "Family (everybody)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Мама (Мати)",
+        "translation": "Mom (Mother)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Тато (Батко)",
+        "translation": "Dad (Father)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Батьки",
+        "translation": "Parents",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Дід (Дідусь)",
+        "translation": "Granpa (Grandfather)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Баба (Бабуся)",
+        "translation": "Grandma (Grandmother)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Прадід",
+        "translation": "Great grandfather",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Прабаба",
+        "translation": "Great granmother",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Дядько",
+        "translation": "Uncle",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Тітка",
+        "translation": "Aunt",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Дитина",
+        "translation": "Child",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Діти",
+        "translation": "Children",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Брат",
+        "translation": "Brother",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Сестра",
+        "translation": "Sister",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Двоюрідний брат",
+        "translation": "Cousin (Male)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Двоюрідна Сестра",
+        "translation": "Cousin (Female)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Племіник",
+        "translation": "Nephew",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Племіниця",
+        "translation": "Niece",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Близнюки",
+        "translation": "Identical twins",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Двіинята",
+        "translation": "Non-identical twins",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Чоловік",
+        "translation": "Man",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Дружина",
+        "translation": "Woman",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Невістка",
+        "translation": "Daughter-in-law",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Зять",
+        "translation": "Son-in-law",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Сврекужа",
+        "translation": "Mother-in-law (from husband)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Теща",
+        "translation": "Mother-in-law (from wife)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Свекор",
+        "translation": "Father-in-law (from husband)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Тесть",
+        "translation": "Father-in-law (from wife)",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Родеч",
+        "translation": "Relative",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Молодший",
+        "translation": "Younger",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Старший",
+        "translation": "Older",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Дорослий",
+        "translation": "Adult",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Рідний",
+        "translation": "Native",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Дівчина",
+        "translation": "Girl",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Хлопчик",
+        "translation": "Boy",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Червоний",
+        "translation": "Red",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Жовтогарячий",
+        "translation": "Orange",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Жовтий",
+        "translation": "Yellow",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Блакучний",
+        "translation": "Light blue",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Синій",
+        "translation": "Dark blue",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Бузковий",
+        "translation": "Purple",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Рожевий",
+        "translation": "Pink",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Коричневий",
+        "translation": "Brown",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Сірий",
+        "translation": "Gray",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Чорний",
+        "translation": "Black",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Білий",
+        "translation": "White",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Золотий",
+        "translation": "Golden",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Срібний",
+        "translation": "Silver",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Темний",
+        "translation": "Dark",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Світлий",
+        "translation": "Light",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Обличчя",
+        "translation": "Face",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Шкіра",
+        "translation": "Skin",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Лоб",
+        "translation": "Forehead",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вухо",
+        "translation": "Ear",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Око",
+        "translation": "Eye",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вія",
+        "translation": "Eyelash",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Брова",
+        "translation": "Eyebrown",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Повіка",
+        "translation": "Eyelid",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ніс",
+        "translation": "Nose",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ром",
+        "translation": "Mouth",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Губа",
+        "translation": "Lip",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Зуб",
+        "translation": "Tooth",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Язик",
+        "translation": "Tongue",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Щока",
+        "translation": "Cheek",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Підборвддя",
+        "translation": "Chin",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вуса",
+        "translation": "Mustache",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Борода",
+        "translation": "Beard",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Усмішка",
+        "translation": "Smile",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Сльоза",
+        "translation": "Tear",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Погляд",
+        "translation": "Stare, View",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Волосся",
+        "translation": "Hair",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Зачіска",
+        "translation": "Hairstyle",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Чуб",
+        "translation": "Fringe",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Коса",
+        "translation": "Braid",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ластовиння",
+        "translation": "Freckles",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Тіло",
+        "translation": "Body",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Голова",
+        "translation": "Head",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Шия",
+        "translation": "Neck",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Плече",
+        "translation": "Shoulder",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Лікоть",
+        "translation": "Еlbow",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Рука",
+        "translation": "Hand, Arm",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Кисть",
+        "translation": "Wrist",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Долоня",
+        "translation": "Palm",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Палець",
+        "translation": "Finger",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Великий Палець",
+        "translation": "Thumb",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ніготь",
+        "translation": "Nail",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Груди",
+        "translation": "Breast, Chest",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Живіт",
+        "translation": "Belly",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Талія",
+        "translation": "Waist",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Стегно",
+        "translation": "Hip",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Нога",
+        "translation": "Leg, foot",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Коліно",
+        "translation": "Knee",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Стопа",
+        "translation": "Foot",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Срина",
+        "translation": "Back",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Хребет",
+        "translation": "Spine",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Ребро",
+        "translation": "Ribs",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Кістка",
+        "translation": "Bone",
+        "wordClass": "noun"
+    },
+    {
+        "word": "М'яз",
+        "translation": "Muscle",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Звяски",
+        "translation": "Ligaments",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Родимка",
+        "translation": "Birthmark",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Понеділок",
+        "translation": "Monday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вівторок",
+        "translation": "Tuesday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Середа",
+        "translation": "Wednesday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Четвер",
+        "translation": "Thursday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Пятьниця",
+        "translation": "Friday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Субота",
+        "translation": "Saturday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Неділя",
+        "translation": "Sunday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Розавчора",
+        "translation": "The day before yesterday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Вчора",
+        "translation": "Yesterday",
+        "wordClass": "noun"
+    },
+    {
+        "word": "С'огодні",
+        "translation": "Today",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Завтра",
+        "translation": "Tomorrow",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Післязавтра",
+        "translation": "The day after tomorrow",
+        "wordClass": "noun"
+    },
+    {
+        "word": "День",
+        "translation": "Day",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Тиждень",
+        "translation": "Week",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Робочий День",
+        "translation": "Business day",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Увихідні",
+        "translation": "Weekend",
+        "wordClass": "noun"
+    },
+    {
+        "word": "Новий",
+        "translation": "New",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Старий",
+        "translation": "Old",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Великий",
+        "translation": "Big",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Маленкий",
+        "translation": "Small",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Важкийж",
+        "translation": "Heavy",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Легкий",
+        "translation": "Light",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Хороший",
+        "translation": "Good",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Довгий",
+        "translation": "Long",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Короткй",
+        "translation": "Short",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Високий",
+        "translation": "Tall, high",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Низький",
+        "translation": "Low",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Гарний",
+        "translation": "Good, beautiful",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Негарний",
+        "translation": "Bad, ugly",
+        "wordClass": "adjective"
+    },
+    {
+        "word": "Дорогий",
+        "translation": "Expensive",
+        "wordClass": "adjective"
+    }
+]
