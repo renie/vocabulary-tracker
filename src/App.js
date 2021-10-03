@@ -59,7 +59,7 @@ const App = () => {
         [searchTerm, selectedWordClass])
 
     const handleChangeSearch = ({target}) =>
-        setSearchTerm(target.value)
+        setSearchTerm(target.value.toLowerCase())
 
     const handleChangeWordClassSelected = (_, item) =>
         setSelectedWordClass(item.name)
