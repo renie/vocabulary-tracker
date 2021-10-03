@@ -2,10 +2,11 @@ import TextField from './TextField'
 
 import './searchInput.css'
 
-const SearchInput = () => {
+const SearchInput = props => {
     return (
         <TextField
-            extraCssClasses={['search-input']} />
+            extraCssClasses={['search-input']}
+            handleChangeSearchFn={props.handleChangeSearchFn} />
     )
 }
 

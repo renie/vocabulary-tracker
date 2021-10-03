@@ -15,14 +15,15 @@ const SearchBar = props => {
 
     const genereteItems = wordClass => ({
         name: wordClass,
-        handleClickFn: ({target}, item) => console.log(`>>> ${item.name}`)
+        handleClickFn: props.handleChangeWordClassSelectedFn
     })
 
     const wordClassesItems = getWordClasses().map(genereteItems)
 
     return (
         <div className="search-bar">
-            <SearchInput />
+            <SearchInput
+                handleChangeSearchFn={props.handleChangeSearchFn} />
             <WordClassSelector
                 wordClasses={wordClassesItems} />
         </div>

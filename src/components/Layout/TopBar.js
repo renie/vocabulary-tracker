@@ -5,7 +5,9 @@ import './topBar.css'
 const TopBar = props => (
     <section className="top-bar">
         <SearchBar
-            words={props.words} />
+            words={props.words}
+            handleChangeSearchFn={props.handleChangeSearchFn}
+            handleChangeWordClassSelectedFn={props.handleChangeWordClassSelectedFn} />
     </section>
 )
 

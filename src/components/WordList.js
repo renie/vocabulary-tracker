@@ -11,12 +11,9 @@ const WordList = props => {
         </li>
     )
 
-    const alphabetically = (a, b) =>
-        a.word.localeCompare(b.word)
-
     return (
         <ul className="word-list">
-            {[...props.words].sort(alphabetically).map(renderWordListItem)}
+            {[...props.words].map(renderWordListItem)}
         </ul>
     )
 }
