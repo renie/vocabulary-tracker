@@ -2,3 +2,9 @@
     display: flex;
     position: relative;
 }
+
+@media  only screen and (max-width: 350px) {
+    .search-bar button {
+        flex-grow: 1;
+    }
+}

@@ -4,6 +4,7 @@
     padding: 10px 0;
     font-size: 1.2em;
     outline: none;
+    min-width: 0;
 }
 
 .text-field:focus {
