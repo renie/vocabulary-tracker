@@ -5,7 +5,8 @@ import './topBar.css'
 const ScrollableContent = props => (
     <section className="scrollable-content">
         <WordList
-            words={props.words} />
+            words={props.words}
+            handleWordClick={props.handleWordClick} />
     </section>
 )
 

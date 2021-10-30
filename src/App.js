@@ -64,6 +64,10 @@ const App = () => {
     const handleChangeWordClassSelected = (_, item) =>
         setSelectedWordClass(item.name)
 
+    const handleWordClick = word => 
+        console.log(word)
+    
+
     return (
         <Layout>
             <TopBar
@@ -71,7 +75,8 @@ const App = () => {
                 handleChangeSearchFn={handleChangeSearch}
                 handleChangeWordClassSelectedFn={handleChangeWordClassSelected} />
             <ScrollableContent
-                words={filteredWords} />
+                words={filteredWords}
+                handleWordClick={handleWordClick} />
         </Layout>
     )
 }
