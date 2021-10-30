@@ -11,6 +11,8 @@ const App = () => {
     const [words, setWords] = useState([])
     const [filteredWords, setFilteredWords] = useState([])
     const [searchTerm, setSearchTerm] = useState('')
+    const [selectedWord, setSelectedWord] = useState('')
+    const [wordDetailsState, setWordDetailsState] = useState('initial')
     const [selectedWordClass, setSelectedWordClass] = useState('all')
 
     const alphabetically = (a, b) =>
@@ -64,9 +66,15 @@ const App = () => {
     const handleChangeWordClassSelected = (_, item) =>
         setSelectedWordClass(item.name)
 
-    const handleWordClick = word => 
-        console.log(word)
+    const handleWordClick = word => {
+        setSelectedWord(word)
+        setWordDetailsState('open')
+    }
     
+    const handleClose = word => {
+        setSelectedWord('')
+        setWordDetailsState('closed')
+    }
 
     return (
         <Layout>
@@ -76,7 +84,10 @@ const App = () => {
                 handleChangeWordClassSelectedFn={handleChangeWordClassSelected} />
             <ScrollableContent
                 words={filteredWords}
-                handleWordClick={handleWordClick} />
+                selectedWord={selectedWord}
+                wordDetailsState={wordDetailsState}
+                handleWordClick={handleWordClick}
+                handleWordDetailClose={handleClose} />
         </Layout>
     )
 }

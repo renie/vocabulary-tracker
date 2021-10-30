@@ -6,7 +6,11 @@ const WordList = props => {
         word => word.word === wordToSearchFor
 
     const handleWordClick = e => {
-        const wordId = e.target.dataset.wordId
+        let link = e.target
+        while (link.nodeName.toLowerCase() !== 'a') {
+            link = link.parentNode
+        }
+        const wordId = link.dataset.wordId
         const word = props.words.find(byWord(wordId))
         props.handleWordClick(word)
     }
