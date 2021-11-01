@@ -1,5 +1,6 @@
 {
   "name": "digital-vocabulary",
+  "description": "Tracker of my vocabulary in Ukrainian",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
