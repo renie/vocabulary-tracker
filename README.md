@@ -13,9 +13,15 @@ For languages that use the Latin or Cyrillic alphabet, you don't have to change 
 
 If you use other languages, you might have to change the font as well, to one that supports your language. You can do it by changing the imported font at the very beginning of `src/app.css`
 
+## Setup
+```js
+nvm use
+npm ic
+```
+
 ## Running the project
 ```js
-npm run dev
+npm start
 ```
 
 ## Building the project
